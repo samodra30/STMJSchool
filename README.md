@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # STMJSchool Wordpress #
 
 ## Description ##
@@ -18,3 +19,6 @@ STMJ School is a web app made with Wordpress. This app using [SZS Theme](https:/
 ## Copyright ##
 STMJ School. Copyright 2019 Samodra.  
 This web app is distributed under the terms of MIT
+=======
+# SZS-Wordpress
+>>>>>>> 023de19ae8fae3a8e945c605b9ba70402643862d
